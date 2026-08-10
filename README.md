@@ -48,7 +48,3 @@ I enjoy turning ambitious ideas into useful, polished software — from AI-nativ
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
-<sub>Thanks for stopping by — explore the repositories and follow along.</sub>
-
-</div>
